@@ -1,4 +1,4 @@
-create location5 pagina
+create page login
 create jaden_master_pagina
 create Jaden_pagina
 
